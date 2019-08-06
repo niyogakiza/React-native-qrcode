@@ -1,0 +1,9 @@
+/node_modules
+.idea/.gitignore
+.idea/codeStyles/Project.xml
+.idea/dbnavigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/react-native-qrcode.iml
+.idea/vcs.xml
+
